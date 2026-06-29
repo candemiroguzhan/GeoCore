@@ -291,3 +291,4 @@ C:\ocandemir\Repos\GeoCore\Geo.Core\GeoCore.Tests\bin\Debug\net10.0\System.IO.Ha
 C:\ocandemir\Repos\GeoCore\Geo.Core\GeoCore.Tests\bin\Debug\net10.0\Testcontainers.dll
 C:\ocandemir\Repos\GeoCore\Geo.Core\GeoCore.Tests\bin\Debug\net10.0\Testcontainers.PostgreSql.dll
 C:\ocandemir\Repos\GeoCore\Geo.Core\GeoCore.Tests\bin\Debug\net10.0\Testcontainers.Redis.dll
+C:\ocandemir\Repos\GeoCore\Geo.Core\GeoCore.Tests\obj\Debug\net10.0\GeoCore.Tests.sourcelink.json

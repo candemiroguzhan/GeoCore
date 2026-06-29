@@ -34,7 +34,7 @@ public sealed class CacheTests
         var builder = new GeoCacheKeyBuilder();
         var geometryHash = builder.Hash("POINT (30 10)");
 
-        var key = builder.ForCoordinateTransform(4326, 3857, geometryHash);
+        var key = builder.ForCoordinateTransform(4326, 3857, geometryHash); 
 
         key.Should().Be($"geocore:spatial:transform:4326:3857:{geometryHash}");
         builder.ForOtbResult("BandMath", "ABC").Should().Be("geocore:otb:result:bandmath:abc");
