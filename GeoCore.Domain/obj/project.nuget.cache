@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "THyq6d+ocGQ=",
+  "success": true,
+  "projectFilePath": "C:\\ocandemir\\Repos\\GeoCore\\Geo.Core\\GeoCore.Domain\\GeoCore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ocandemir\\.nuget\\packages\\nettopologysuite\\2.6.0\\nettopologysuite.2.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

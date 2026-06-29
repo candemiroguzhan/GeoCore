@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="GeoCore.Application/GeoCore.Application.csproj" />
+  <Project Path="GeoCore.Domain/GeoCore.Domain.csproj" />
+  <Project Path="GeoCore.Infrastructure/GeoCore.Infrastructure.csproj" />
+  <Project Path="GeoCore.Shared/GeoCore.Shared.csproj" />
+  <Project Path="GeoCore.Tests/GeoCore.Tests.csproj" />
+</Solution>
